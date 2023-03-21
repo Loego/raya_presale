@@ -7,7 +7,7 @@ const GamingWorldSection = () => {
             <div class="col-12 col-md-6">
                 <img src="../assets/image/checkout-illustration-light.jpg" alt="illustration" class="img-fluid" />
             </div>
-            <div class="col-20 col-md-6"><h6 class="text-info mb-5">   WHY RAYACANTO?</h6>    
+            <div class="col-20 col-md-6"><h6 class="text-info mb-5">WHY RAYACANTO?</h6>    
                     <h2 class="mb-4">Together,We will rebuild the gaming world</h2>
                     <p class="lead mb-4">
                 </p>
@@ -23,14 +23,14 @@ const GamingWorldSection = () => {
         </div>
         <div class="d-flex flex-wrap align-items-center justify-content-around text-center mt-5 client-logos">
             <div class="flex-md-fill ">
-                <img src="../assets/images/logo_1_dark.png" alt="logo" class="img-fluid" />
+                <img src="../assets/image/logo_1_dark.png" alt="logo" class="img-fluid" />
             </div>
             
             <div class="flex-md-fill ">
-                <img src="images/logo_3_dark.png" alt="logo" class="img-fluid" />
+                <img src="../assets/image/logo_3_dark.png" alt="logo" class="img-fluid" />
             </div>
             <div class="flex-md-fill ">
-                <img src="images/logo_4_dark.png" alt="logo" class="img-fluid" />
+                <img src="../assets/image/logo_4_dark.png" alt="logo" class="img-fluid" />
             </div>
         </div>
         </div>
